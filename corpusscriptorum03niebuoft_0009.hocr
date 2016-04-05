@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptorum03niebuoft_0009.png"; bbox 0 0 1768 3152; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 319 223 1314 292">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 319 223 1314 292">
+     <span class='ocr_line' id='line_1_1' title="bbox 319 223 1314 292; baseline 0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 319 223 683 290; x_wconf 87' lang='lat' dir='ltr'><strong>ANNAE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 738 223 1314 292; x_wconf 85' lang='lat' dir='ltr'>COMNENAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 69 455 1565 573">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 69 455 1565 573">
+     <span class='ocr_line' id='line_1_2' title="bbox 69 455 1565 573; baseline 0.001 -2"><span class='ocrx_word' id='word_1_3' title='bbox 69 455 1565 573; x_wconf 74' lang='lat' dir='ltr'><strong>ALEXIADIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 574 756 1061 808">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 574 756 1061 808">
+     <span class='ocr_line' id='line_1_3' title="bbox 574 756 1061 808; baseline -0.008 -2"><span class='ocrx_word' id='word_1_4' title='bbox 574 756 1061 808; x_wconf 67' lang='lat' dir='ltr'><strong>LIBIzIXv.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 738 1150 908 1186">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 738 1150 908 1186">
+     <span class='ocr_line' id='line_1_4' title="bbox 738 1150 908 1186; baseline -0.006 0"><span class='ocrx_word' id='word_1_5' title='bbox 738 1150 908 1186; x_wconf 80' lang='lat' dir='ltr'><strong>DDDDDD</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 182 1403 1455 1478">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 182 1403 1455 1478">
+     <span class='ocr_line' id='line_1_5' title="bbox 182 1403 1455 1478; baseline 0 -3"><span class='ocrx_word' id='word_1_6' title='bbox 182 1407 767 1477; x_wconf 82' lang='lat' dir='ltr'>LUDOVICUS</span> <span class='ocrx_word' id='word_1_7' title='bbox 824 1403 1455 1478; x_wconf 82' lang='lat' dir='ltr'><strong>SCHOPENUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 588 2271 1047 2316">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 588 2271 1047 2316">
+     <span class='ocr_line' id='line_1_6' title="bbox 588 2271 1047 2316; baseline -0.002 0"><span class='ocrx_word' id='word_1_8' title='bbox 588 2271 1047 2316; x_wconf 84' lang='lat' dir='ltr'>VOLUMENIL</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 71 2603 1515 2605">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 71 2603 1515 2605">
+     <span class='ocr_line' id='line_1_7' title="bbox 71 2603 1515 2605; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 71 2603 1515 2605; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 362 2682 1295 2850">
+    <p class='ocr_par' dir='ltr' id='par_1_8' title="bbox 362 2682 1295 2850">
+     <span class='ocr_line' id='line_1_8' title="bbox 654 2682 987 2734; baseline 0.003 -3"><span class='ocrx_word' id='word_1_10' title='bbox 654 2682 987 2734; x_wconf 84' lang='lat' dir='ltr'><strong>BONNAE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 362 2805 1295 2850; baseline -0.001 -1"><span class='ocrx_word' id='word_1_11' title='bbox 362 2805 1295 2850; x_wconf 86' lang='lat' dir='ltr'>IMPENSISED.WEBERI</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
